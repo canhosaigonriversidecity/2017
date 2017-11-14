@@ -15,7 +15,7 @@ Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGO
 <blockquote>
 <p style="text-align: justify;"><strong>» THÔNG TIN LIÊN HỆ</strong></p>
 <p style="text-align: justify;"><strong>» Địa chỉ: 144 Nguyễn Tất Thành, Phường 13, Quận 4, TPHCM</strong></p>
-<p style="text-align: justify;"><strong>» Số điện thoại: 0941 085 085</strong></p>
+ <p style="text-align: justify;"><strong>» Số điện thoại: <a href="tel:+84941085085">0941 085 085</a></strong></p>
 <p style="text-align: justify;"><strong>» Email: info@sgrc.vn</strong></p>
 <p style="text-align: justify;"><strong>» Facebook: <a href="https://vi-vn.facebook.com/canhosaigonriversidecity.official/">https://www.facebook.com/canhosaigonriversidecity.official</a></strong></p> 
  <p style="text-align: justify;"><strong>» Video <a href="https://www.youtube.com/watch?v=01PFWCInBQI&t=5s"> Căn hộ Saigon Riverside City</a></strong></p> 
