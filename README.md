@@ -1,5 +1,5 @@
 # Thông tin sơ bộ dự án căn hộ Saigon Riverside City tại Quận Thủ Đức, TPHCM
-<a href="https://namminh.com.vn/du-an/saigon-riverside-city">Căn hộ Sài Gỏn Riverside City</a> tọa lạc tại 623 Quốc Lộ 13, Phường Hiệp Bình Phươc, Quận Thủ Đức. 
+<a href="https://namminh.com.vn/du-an/saigon-riverside-city">Căn hộ Sài Gòn Riverside City</a> tọa lạc tại 623 Quốc Lộ 13, Phường Hiệp Bình Phươc, Quận Thủ Đức. 
 <ul>
  	<li><strong>Khu phức hợp đô thị sinh thái đẳng cấp hàng đầu bên sông Sài Gòn</strong></li>
  	<li><strong>Vị trí vàng</strong> mặt tiền Xô Viết Nghệ Tĩnh – Quốc lộ 13 lộ giới 60m, liền kề đại lộ Phạm Văn Đồng, Kết nối đến sân bay Tân Sơn Nhất và Quận 1 nhanh chóng</li>
