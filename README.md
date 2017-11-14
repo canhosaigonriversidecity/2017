@@ -13,12 +13,10 @@
 
 Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGON RIVERSIDE CITY-</strong> nơi sông xanh đất vàng, khởi nguồn mạch sống và kiến tạo sự phồn vinh 
 <blockquote>
-<p style="text-align: justify;"><strong>» Dự án <a href="https://namminh.com.vn/du-an/saigon-riverside-city">SAIGON RIVERSIDE CITY</a></strong></p>
-<p style="text-align: justify;"><strong>» Vị trí: Mặt tiền Quốc lộ 13, ven sông Sài Gòn.</strong></p>
-<p style="text-align: justify;"><strong>» Quy mô: 5 Block. Cao 29 tầng.</strong></p>
-<p style="text-align: justify;"><strong>» Mật độ xây dựng thấp nhất hiện nay: 21,19%</strong></p>
-<p style="text-align: justify;"><strong>» 6 Phân khu và 36 tiện ích nội bộ.</strong></p>
-<p style="text-align: justify;"><strong>» Giá: 1,28 tỉ đồng/căn 2PN.</strong></p>
-<p style="text-align: justify;"><strong>» Liên hệ nhận báo giá chi tiết: <a href="https://goo.gl/forms/UJNWahQTCCdJCN4q1">https://goo.gl/forms/UJNWahQTCCdJCN4q1</a></strong></p>
-<p style="text-align: justify;"><strong>» Hotline: 0941 085 085</strong></p>
+<p style="text-align: justify;"><strong>» THÔNG TIN LIÊN HỆ</strong></p>
+<p style="text-align: justify;"><strong>» Địa chỉ: 144 Nguyễn Tất Thành, Phường 13, Quận 4, TPHCM</strong></p>
+<p style="text-align: justify;"><strong>» Số điện thoại: 0941 085 085</strong></p>
+<p style="text-align: justify;"><strong>» Email: info@sgrc.vn</strong></p>
+<p style="text-align: justify;"><strong>» Facebook: <a href="https://vi-vn.facebook.com/canhosaigonriversidecity.official/">https://www.facebook.com/canhosaigonriversidecity.official</a></strong></p> 
+ <p style="text-align: justify;"><strong>» Video <a href="https://www.youtube.com/watch?v=01PFWCInBQI&t=5s"> Căn hộ Saigon Riverside City</a></strong></p> 
 </blockquote>
