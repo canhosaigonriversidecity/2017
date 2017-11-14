@@ -12,7 +12,7 @@
 </ul> 
 
 Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGON RIVERSIDE CITY-</strong> nơi sông xanh đất vàng, khởi nguồn mạch sống và kiến tạo sự phồn vinh 
-ol style="text-align: justify;">
+<ol style="text-align: justify;">
  	<li>
 <h3><strong>Môi trường sống và cảnh quan yên bình.</strong></h3>
 </li>
