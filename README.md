@@ -22,7 +22,7 @@ Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGO
 <p style="text-align: justify;">Ngoài ra, với môi trường được coi là chuẩn quốc tế với mạng lưới cây xanh, công viên, trường quốc tế, các trung tâm thương mại… không thể nào không thu hút những vị khách nước ngoài được. Hơn nữa, những dự án nằm bên bờ sông Sài Gòn cũng gây ấn tượng bởi không khí vô cùng trong lành, thoáng đãng và cảnh quan tuyệt đẹp.</p>
  
 <p style="text-align: justify;">Các chuyên gia về bất động sản cho rằng, nhiều người có thu nhập cao đang tìm kiếm một địa điểm gần Sài Gòn để nghỉ dưỡng thì có lẽ không thể bỏ qua khu bất động sản phía Đông Sài Gòn này; nơi mà bạn có thể hưởng thụ cuộc sống cũng như là địa điểm vàng để đầu tư bất động sản.</p>
-
+<img src="https://camo.githubusercontent.com/7f7b993e779578fae29341bba3f2adfb93e0a86f/687474703a2f2f692e696d6775722e636f6d2f743765466562352e6a7067" alt="" border="0" data-canonical-src="http://i.imgur.com/t7eFeb5.jpg" style="max-width:100%;">
 <ol style="text-align: justify;" start="2">
  	<li>
 <h3><strong>Tiềm năng đang được đánh thức.</strong></h3>
