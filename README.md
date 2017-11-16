@@ -57,3 +57,5 @@ Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGO
 <p style="text-align: justify;"><strong>» Facebook: <a href="https://vi-vn.facebook.com/canhosaigonriversidecity.official/">https://www.facebook.com/canhosaigonriversidecity.official</a></strong></p> 
  <p style="text-align: justify;"><strong>» Video <a href="https://www.youtube.com/watch?v=01PFWCInBQI&t=5s"> Căn hộ Saigon Riverside City</a></strong></p> 
 </blockquote>
+
+<img src="https://raw.githubusercontent.com/canhosaigonriversidecity/2017/master/bg-news.jpg" alt="" border="0"  style="max-width:100%;">
