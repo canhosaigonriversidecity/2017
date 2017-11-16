@@ -13,6 +13,7 @@
 
 Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGON RIVERSIDE CITY-</strong> nơi sông xanh đất vàng, khởi nguồn mạch sống và kiến tạo sự phồn vinh 
 <img src="https://raw.githubusercontent.com/canhosaigonriversidecity/2017/master/bg-news.jpg" alt="" border="0"  style="max-width:100%;">
+Khu đô thị thông minh và sinh thái đầu tiên bên sông Sài Gòn
 <ol style="text-align: justify;">
  	<li>
 <h3><strong>Môi trường sống và cảnh quan yên bình.</strong></h3>
