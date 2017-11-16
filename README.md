@@ -24,9 +24,8 @@ Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGO
  
 <p style="text-align: justify;">Các chuyên gia về bất động sản cho rằng, nhiều người có thu nhập cao đang tìm kiếm một địa điểm gần Sài Gòn để nghỉ dưỡng thì có lẽ không thể bỏ qua khu bất động sản phía Đông Sài Gòn này; nơi mà bạn có thể hưởng thụ cuộc sống cũng như là địa điểm vàng để đầu tư bất động sản.</p>
 
- 	<li>
+
 <h3><strong>Tiềm năng đang được đánh thức.</strong></h3>
-</li>
 </ol>
 <p style="text-align: justify;">Nếu như các dự án trong trung tâm của Sài Gòn không còn quá thu hút với giới đầu cơ cũng như người nước ngoài thì nhưng khu phía ngoài còn khá nguyên sơ chưa có tác động nhiều của con người lại đang là đích ngắm với họ.</p>
 <p style="text-align: justify;">Khu bất động sản phía Đông Sài Gòn là một nơi như vậy, một nơi mà các tiềm năng kinh tế của nó vẫn chưa được giới đầu cơ đánh thức, do dó nếu có tầm nhìn xa, đầu tư vào đây thì chắc chắn chỉ vài năm nữa thôi đây sẽ là vùng đất đẻ ra tiền .</p>
