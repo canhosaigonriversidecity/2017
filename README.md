@@ -12,6 +12,7 @@
 </ul> 
 
 Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGON RIVERSIDE CITY-</strong> nơi sông xanh đất vàng, khởi nguồn mạch sống và kiến tạo sự phồn vinh 
+<img src="https://raw.githubusercontent.com/canhosaigonriversidecity/2017/master/bg-news.jpg" alt="" border="0"  style="max-width:100%;">
 <ol style="text-align: justify;">
  	<li>
 <h3><strong>Môi trường sống và cảnh quan yên bình.</strong></h3>
@@ -58,4 +59,4 @@ Khu đô thị thông minh và sinh thái đầu tiên bên sông<strong> SAIGO
  <p style="text-align: justify;"><strong>» Video <a href="https://www.youtube.com/watch?v=01PFWCInBQI&t=5s"> Căn hộ Saigon Riverside City</a></strong></p> 
 </blockquote>
 
-<img src="https://raw.githubusercontent.com/canhosaigonriversidecity/2017/master/bg-news.jpg" alt="" border="0"  style="max-width:100%;">
+
